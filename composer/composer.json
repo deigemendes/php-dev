@@ -1,0 +1,16 @@
+{
+    "name": "deige/curso",
+    "description": "Projeto php curso",
+    "type": "project",
+    "authors": [
+        {
+            "name": "deige",
+            "email": "deige.mendes@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+               "monolog/monolog":"1.0.*"
+      
+}
+}
