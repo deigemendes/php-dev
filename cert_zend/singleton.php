@@ -58,4 +58,3 @@ $anotherObj = SingletonChild::getInstance();
 var_dump($anotherObj === Singleton::getInstance());      // bool(false)
 
 var_dump($anotherObj === SingletonChild::getInstance()); // bool(true)
-O código acima implementa o padrão “Singleton” usando uma variável estática e o mé
