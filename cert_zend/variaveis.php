@@ -81,3 +81,5 @@ Teste de comentários de blocos
 */
 
 #Teste de compemntários #
+
+// Comentários simples 
