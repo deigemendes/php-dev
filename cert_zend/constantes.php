@@ -42,8 +42,6 @@ class NomeClasse {
         echo __NAMESPACE__; 
     }
 
-   
-
 }
 
 $teste2 = new NomeClasse; 
